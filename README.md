@@ -5,6 +5,6 @@ Followed the tutorial in IOS Apprentice, lesson 4
 
 This app retrieve items from the iTunes store using an artiste name/ name of the creator 
 
-![alt tag](http://imgur.com/a/3JaLO)
+![alt tag](http://i.imgur.com/XwLI4aE.png)
 
 http://imgur.com/a/3JaLO
