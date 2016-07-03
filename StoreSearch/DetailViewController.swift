@@ -2,8 +2,6 @@
 //  DetailViewController.swift
 //  StoreSearch
 //
-//  Created by M.I. Hollemans on 24/08/15.
-//  Copyright © 2015 Razeware. All rights reserved.
 //
 
 import UIKit
