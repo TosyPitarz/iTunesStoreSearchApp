@@ -1,8 +1,10 @@
 //
 //  DetailViewController.swift
 //  StoreSearch
-//
-//
+//  From the book ios apprentice 
+//  Created by M.I. Hollemans on 19/08/15.
+//  Copyright © 2015 Razeware. All rights reserved.
+//  student: Tosy Pitarz
 
 import UIKit
 import MessageUI
